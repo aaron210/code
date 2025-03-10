@@ -11,7 +11,7 @@
     "node-sass": "npm:sass@^1.26.11"
   },
   "dependencies": {
-    "prismjs": "^1.22.0",
+    "prismjs": "^1.30.0",
     "vue": "^3.0.0",
     "vue-router": "4.0.0-beta.3"
   },
